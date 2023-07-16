@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasoft1
-- 👀 trying to learn, maybe Python?
+- 👀 trying to learn something
 
 <!---
 hasoft1/hasoft1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
