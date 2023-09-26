@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasoft1 ..
 - 👀 trying to learn something .
-- .
+- keep trying .
 - ..
 - ...
 
